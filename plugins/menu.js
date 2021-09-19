@@ -33,19 +33,20 @@ const defaultMenu = {
 ╭─「 %me 」
 │ Hai, %name!
 │
-│ Tersisa *%limit Limit*
+│ Limit*%limit Limit*
 │ Role *%role*
 │ Level *%level (%exp / %maxexp)* [%xp4levelup lagi untuk levelup]
 │ %totalexp XP in Total
 │ 
-│ Tanggal: *%week %weton, %date*
-│ Tanggal Islam: *%dateIslamic*
-│ Waktu: *%time*
+│ Date: *%week %weton, %date*
+
+│ time : *%time*
 │
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
-│ Github:
-│ %github
+
+│ Github: https://github.com/rishabh-modi2/jarvisbot
+│ 
 ╰────
 %readmore`.trimStart(),
   header: '╭─「 %category 」',

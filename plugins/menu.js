@@ -32,7 +32,7 @@ const defaultMenu = {
   before: `
 ╭─「 %me 」
 │ Hai, %name!
-│
+│ * I am Jarvis, A whatsapp bot by Rishabh modi
 │ Limit*%limit Limit*
 │ Role *%role*
 │ Level *%level (%exp / %maxexp)* [%xp4levelup lagi untuk levelup]
